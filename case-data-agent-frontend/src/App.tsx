@@ -21,7 +21,6 @@ const SUGGESTIONS = [
     '位军最近一周的工作量',
     '位军最近一周编目了多少件，按案件类型分类，含件数和页数',
     '最近7天按案件类型统计登记、接收、扫描、编目、审核、卷宗推送各有多少件次',
-    'parsing_status 是什么意思？',
 ]
 
 function groupByDate(sessions: SessionItem[]) {
